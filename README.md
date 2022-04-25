@@ -2,7 +2,7 @@
 ## Overview of the School District 
   The purpose of this excercise was to replace the ninth-grade data from Thomas High School and to compare the data set to the overall data set to detect any signs of potential accademic dishonesty. If there was cheating occuring in this spesific grade, it could artifically inflate the preformance of the school and provide an untruthful representation of the overall preformance of both THomas High School and the district as a whole
 ## Results
-* ![thomas](/Resources/thomas)
+* ![thomas](/Resources/thomas.png)
 *   After using the data set without the ninth-graders data, there was a steep decrease in the % of students passing math and reading, from an overall percentage of students passing both subjects from 90% down to about 65%. Compared to the other grades at the school, its difficult to think the original pass rate is legitamate with such a steep decrease in preformance at Thomas High School.
 *   
 * Scores by Spending
